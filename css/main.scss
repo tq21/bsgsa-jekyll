@@ -20,6 +20,33 @@ $brand-color:      #0077CC;
 $clemson-purple:      #522d80;
 $clemson-orange:      #f66733;
 
+// Defines the UC Berkeley palette.
+// Primary
+// Heritage
+$berkeleyblue:   #003262;
+$californiagold: #FDB515;
+// Alternate Heritage
+$foundersrock:   #3B7EA1;
+$webmedalist:    #C4820E;
+// Secondary
+// Neutral
+$wellmantile:       #D9661F;
+$webbayfog:         #DDD5CF;
+$sathergate:        #B9D3B6;
+$webbackgroundgrey: #EEEEEE;
+// Vibrant
+$rosegarden: #EE1F60;
+$lawrence:   #00B0DA;
+$ion:        #CFDD45;
+// Bright
+$goldengate: #ED4E33;
+$weblaplane: #00A598;
+$websoybean: #859438;
+// Dark
+$southhall:  #6C3302;
+$webpacific: #46535E;
+$stonepine:  #584F29;
+$webgrey:    #888888;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
