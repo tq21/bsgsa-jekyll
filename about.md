@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/biostat_winter_party_2014.png" caption="BSGSA end-of-semester party, Dec 2014." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+The BSGSA is designed to represent the interests and needs of students of graduate students in biostatistics at UC Berkeley. For the 2015-2016 academic year, the BSGSA signatories are, in alphabetical order:
 
+* Lina Montoya, 2nd year master's student;
+* Sara Moore, 5th year PhD student (BSGSA co-president);
+* Lucia Petito, 4th year PhD student (BSGSA co-president); and
+* Courtney Schiffman, 2nd year master's student (BSGSA co-president; Biostatistics Graduate Assembly delegate).
+
+Per the BSGSA constitution, elections are held each May to determine the leadership for the following academic year.

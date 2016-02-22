@@ -1,11 +1,13 @@
 ---
 layout: page
-title: All posts
-permalink: /blog/
+title: News
+permalink: /news/
 ---
 
+BSGSA members: please send your achievements, small or large, to us so that we may post them here! For more news, see the [UC Berkeley SPH's Biostatistics news feed](http://sph.berkeley.edu/about-us/school-news?field_tags_tid=11).
+
 <ul class="listing">
-{% for post in site.posts %}
+{% for post in site.categories.news %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

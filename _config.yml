@@ -1,14 +1,18 @@
 # Site settings
-title: Biostatistics Graduate Student Association (BSGSA)
+title: Biostat Grad Student Assoc. (BSGSA)
 email: berkeley.bsgsa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Biostatistics Graduate Student Association (BSGSA) is
+  a student organization at UC Berkeley. Our goal is to represent
+  the interests and needs of graduate students in biostatistics.
+disclaimer: > # this means to ignore newlines until "baseurl:"
+  We are a student group acting independently of the University of California.
+  We take full responsibility for our organization and this web site.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bsgsa.berkeley.edu" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
+facebook_username:  UCBerkeleybiostatistics
 
 # Build settings
 markdown: kramdown

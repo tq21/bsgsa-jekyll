@@ -95,7 +95,7 @@ a {
 
    &:visited {
     /*    color: darken($brand-color, 15%); */
-    } 
+    }
 
     &:hover {
         color: $text-color;
@@ -189,32 +189,13 @@ pre {
 
 
 
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
-
-
 a.tosu {
-color: #b00000;
-background: #f5f5f5;
-text-decoration: none;
- padding: 2px; 
- font-weight: 600; 
-font-family: 'Capita', Georgia, serif;
+    color: #b00000;
+    background: #f5f5f5;
+    text-decoration: none;
+    padding: 2px;
+    font-weight: 600;
+    font-family: 'Capita', Georgia, serif;
 }
 
 
