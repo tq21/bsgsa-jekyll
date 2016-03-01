@@ -8,6 +8,7 @@ permalink: /resources/
 
 * [Academic](/resources/academic/)
 * [Non-Academic](/resources/nonacademic/)
+* [General Advice from Current Students](/resources/advice/)
 
 # External links
 

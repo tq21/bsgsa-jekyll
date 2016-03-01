@@ -11,6 +11,8 @@
       subhref: "/resources/academic/"
     - subtitle: "Non-Academic"
       subhref: "/resources/nonacademic/"
+    - subtitle: "General Advice from Current Students"
+      subhref: "/resources/advice/"
 
 - title: "About"
   href: "/about/"
